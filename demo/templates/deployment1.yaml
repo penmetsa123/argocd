@@ -21,6 +21,6 @@ spec:
     spec:
       containers:
         - name: mithun-containername
-          image: mithuntechnologies/maven-web-application:2
+          image: mithuntechnologies/maven-web-application:1
           ports:
             - containerPort: 8080    

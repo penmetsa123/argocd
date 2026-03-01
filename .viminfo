@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1772348734,,"wq!"
+|2,0,1772350335,,"wq!"
 :q!
 |2,0,1772321078,,"q!"
 :w!
@@ -43,36 +43,78 @@
 |3,1,36,0,1,0,1770519980,":"
 
 # File marks:
-'0  5  18  ~/application.yaml
-|4,48,5,18,1772348734,"~/application.yaml"
-'1  40  15  /tmp/kubectl-edit-1517309634.yaml
-|4,49,40,15,1772347783,"/tmp/kubectl-edit-1517309634.yaml"
-'2  24  58  ~/demo/templates/deployment1.yaml
-|4,50,24,58,1772325324,"~/demo/templates/deployment1.yaml"
-'3  13  20  ~/demo/templates/svc.yaml
-|4,51,13,20,1772324273,"~/demo/templates/svc.yaml"
-'4  1  163  ~/demo/templates/svc.yaml
-|4,52,1,163,1772323269,"~/demo/templates/svc.yaml"
-'5  11  20  ~/demo/templates/svc.yaml
-|4,53,11,20,1772323269,"~/demo/templates/svc.yaml"
-'6  26  36  ~/demo/templates/deployment1.yaml
-|4,54,26,36,1772322931,"~/demo/templates/deployment1.yaml"
-'7  26  36  ~/demo/templates/deployment1.yaml
-|4,55,26,36,1772322931,"~/demo/templates/deployment1.yaml"
-'8  1  444  ~/demo/templates/deployment1.yaml
-|4,56,1,444,1772322565,"~/demo/templates/deployment1.yaml"
-'9  25  0  ~/demo/templates/deployment1.yaml
-|4,57,25,0,1772322565,"~/demo/templates/deployment1.yaml"
+'0  24  58  ~/demo/templates/deployment1.yaml
+|4,48,24,58,1772350335,"~/demo/templates/deployment1.yaml"
+'1  11  59  ~/application.yaml
+|4,49,11,59,1772349733,"~/application.yaml"
+'2  5  18  ~/application.yaml
+|4,50,5,18,1772348734,"~/application.yaml"
+'3  5  18  ~/application.yaml
+|4,51,5,18,1772348734,"~/application.yaml"
+'4  40  15  /tmp/kubectl-edit-1517309634.yaml
+|4,52,40,15,1772347783,"/tmp/kubectl-edit-1517309634.yaml"
+'5  24  58  ~/demo/templates/deployment1.yaml
+|4,53,24,58,1772325324,"~/demo/templates/deployment1.yaml"
+'6  13  20  ~/demo/templates/svc.yaml
+|4,54,13,20,1772324273,"~/demo/templates/svc.yaml"
+'7  1  163  ~/demo/templates/svc.yaml
+|4,55,1,163,1772323269,"~/demo/templates/svc.yaml"
+'8  11  20  ~/demo/templates/svc.yaml
+|4,56,11,20,1772323269,"~/demo/templates/svc.yaml"
+'9  26  36  ~/demo/templates/deployment1.yaml
+|4,57,26,36,1772322931,"~/demo/templates/deployment1.yaml"
 
 # Jumplist (newest first):
+-'  24  58  ~/demo/templates/deployment1.yaml
+|4,39,24,58,1772350335,"~/demo/templates/deployment1.yaml"
+-'  11  59  ~/application.yaml
+|4,39,11,59,1772349733,"~/application.yaml"
+-'  11  59  ~/application.yaml
+|4,39,11,59,1772349733,"~/application.yaml"
+-'  5  18  ~/application.yaml
+|4,39,5,18,1772349627,"~/application.yaml"
+-'  5  18  ~/application.yaml
+|4,39,5,18,1772349627,"~/application.yaml"
 -'  5  18  ~/application.yaml
 |4,39,5,18,1772348734,"~/application.yaml"
+-'  5  18  ~/application.yaml
+|4,39,5,18,1772348734,"~/application.yaml"
+-'  1  0  ~/application.yaml
+|4,39,1,0,1772348345,"~/application.yaml"
+-'  1  0  ~/application.yaml
+|4,39,1,0,1772348345,"~/application.yaml"
+-'  1  0  ~/application.yaml
+|4,39,1,0,1772348345,"~/application.yaml"
 -'  1  0  ~/application.yaml
 |4,39,1,0,1772348345,"~/application.yaml"
 -'  40  15  /tmp/kubectl-edit-1517309634.yaml
 |4,39,40,15,1772347783,"/tmp/kubectl-edit-1517309634.yaml"
 -'  40  15  /tmp/kubectl-edit-1517309634.yaml
 |4,39,40,15,1772347783,"/tmp/kubectl-edit-1517309634.yaml"
+-'  40  15  /tmp/kubectl-edit-1517309634.yaml
+|4,39,40,15,1772347783,"/tmp/kubectl-edit-1517309634.yaml"
+-'  40  15  /tmp/kubectl-edit-1517309634.yaml
+|4,39,40,15,1772347783,"/tmp/kubectl-edit-1517309634.yaml"
+-'  40  15  /tmp/kubectl-edit-1517309634.yaml
+|4,39,40,15,1772347783,"/tmp/kubectl-edit-1517309634.yaml"
+-'  40  15  /tmp/kubectl-edit-1517309634.yaml
+|4,39,40,15,1772347783,"/tmp/kubectl-edit-1517309634.yaml"
+-'  40  15  /tmp/kubectl-edit-1517309634.yaml
+|4,39,40,15,1772347783,"/tmp/kubectl-edit-1517309634.yaml"
+-'  40  15  /tmp/kubectl-edit-1517309634.yaml
+|4,39,40,15,1772347783,"/tmp/kubectl-edit-1517309634.yaml"
+-'  1  0  /tmp/kubectl-edit-1517309634.yaml
+|4,39,1,0,1772347757,"/tmp/kubectl-edit-1517309634.yaml"
+-'  1  0  /tmp/kubectl-edit-1517309634.yaml
+|4,39,1,0,1772347757,"/tmp/kubectl-edit-1517309634.yaml"
+-'  1  0  /tmp/kubectl-edit-1517309634.yaml
+|4,39,1,0,1772347757,"/tmp/kubectl-edit-1517309634.yaml"
+-'  1  0  /tmp/kubectl-edit-1517309634.yaml
+|4,39,1,0,1772347757,"/tmp/kubectl-edit-1517309634.yaml"
+-'  1  0  /tmp/kubectl-edit-1517309634.yaml
+|4,39,1,0,1772347757,"/tmp/kubectl-edit-1517309634.yaml"
+-'  1  0  /tmp/kubectl-edit-1517309634.yaml
+|4,39,1,0,1772347757,"/tmp/kubectl-edit-1517309634.yaml"
 -'  1  0  /tmp/kubectl-edit-1517309634.yaml
 |4,39,1,0,1772347757,"/tmp/kubectl-edit-1517309634.yaml"
 -'  1  0  /tmp/kubectl-edit-1517309634.yaml
@@ -85,6 +127,14 @@
 |4,39,24,58,1772325324,"~/demo/templates/deployment1.yaml"
 -'  24  58  ~/demo/templates/deployment1.yaml
 |4,39,24,58,1772325324,"~/demo/templates/deployment1.yaml"
+-'  24  58  ~/demo/templates/deployment1.yaml
+|4,39,24,58,1772325324,"~/demo/templates/deployment1.yaml"
+-'  24  58  ~/demo/templates/deployment1.yaml
+|4,39,24,58,1772325324,"~/demo/templates/deployment1.yaml"
+-'  24  58  ~/demo/templates/deployment1.yaml
+|4,39,24,58,1772325324,"~/demo/templates/deployment1.yaml"
+-'  24  58  ~/demo/templates/deployment1.yaml
+|4,39,24,58,1772325324,"~/demo/templates/deployment1.yaml"
 -'  26  36  ~/demo/templates/deployment1.yaml
 |4,39,26,36,1772325313,"~/demo/templates/deployment1.yaml"
 -'  26  36  ~/demo/templates/deployment1.yaml
@@ -93,6 +143,64 @@
 |4,39,26,36,1772325313,"~/demo/templates/deployment1.yaml"
 -'  26  36  ~/demo/templates/deployment1.yaml
 |4,39,26,36,1772325313,"~/demo/templates/deployment1.yaml"
+-'  26  36  ~/demo/templates/deployment1.yaml
+|4,39,26,36,1772325313,"~/demo/templates/deployment1.yaml"
+-'  26  36  ~/demo/templates/deployment1.yaml
+|4,39,26,36,1772325313,"~/demo/templates/deployment1.yaml"
+-'  26  36  ~/demo/templates/deployment1.yaml
+|4,39,26,36,1772325313,"~/demo/templates/deployment1.yaml"
+-'  26  36  ~/demo/templates/deployment1.yaml
+|4,39,26,36,1772325313,"~/demo/templates/deployment1.yaml"
+-'  26  36  ~/demo/templates/deployment1.yaml
+|4,39,26,36,1772325313,"~/demo/templates/deployment1.yaml"
+-'  13  20  ~/demo/templates/svc.yaml
+|4,39,13,20,1772324273,"~/demo/templates/svc.yaml"
+-'  13  20  ~/demo/templates/svc.yaml
+|4,39,13,20,1772324273,"~/demo/templates/svc.yaml"
+-'  13  20  ~/demo/templates/svc.yaml
+|4,39,13,20,1772324273,"~/demo/templates/svc.yaml"
+-'  13  20  ~/demo/templates/svc.yaml
+|4,39,13,20,1772324273,"~/demo/templates/svc.yaml"
+-'  13  20  ~/demo/templates/svc.yaml
+|4,39,13,20,1772324273,"~/demo/templates/svc.yaml"
+-'  13  20  ~/demo/templates/svc.yaml
+|4,39,13,20,1772324273,"~/demo/templates/svc.yaml"
+-'  13  20  ~/demo/templates/svc.yaml
+|4,39,13,20,1772324273,"~/demo/templates/svc.yaml"
+-'  13  20  ~/demo/templates/svc.yaml
+|4,39,13,20,1772324273,"~/demo/templates/svc.yaml"
+-'  13  20  ~/demo/templates/svc.yaml
+|4,39,13,20,1772324273,"~/demo/templates/svc.yaml"
+-'  13  20  ~/demo/templates/svc.yaml
+|4,39,13,20,1772324273,"~/demo/templates/svc.yaml"
+-'  13  20  ~/demo/templates/svc.yaml
+|4,39,13,20,1772324273,"~/demo/templates/svc.yaml"
+-'  13  20  ~/demo/templates/svc.yaml
+|4,39,13,20,1772324273,"~/demo/templates/svc.yaml"
+-'  13  20  ~/demo/templates/svc.yaml
+|4,39,13,20,1772324273,"~/demo/templates/svc.yaml"
+-'  13  20  ~/demo/templates/svc.yaml
+|4,39,13,20,1772324273,"~/demo/templates/svc.yaml"
+-'  13  20  ~/demo/templates/svc.yaml
+|4,39,13,20,1772324273,"~/demo/templates/svc.yaml"
+-'  13  20  ~/demo/templates/svc.yaml
+|4,39,13,20,1772324273,"~/demo/templates/svc.yaml"
+-'  13  20  ~/demo/templates/svc.yaml
+|4,39,13,20,1772324273,"~/demo/templates/svc.yaml"
+-'  13  20  ~/demo/templates/svc.yaml
+|4,39,13,20,1772324273,"~/demo/templates/svc.yaml"
+-'  13  20  ~/demo/templates/svc.yaml
+|4,39,13,20,1772324273,"~/demo/templates/svc.yaml"
+-'  13  20  ~/demo/templates/svc.yaml
+|4,39,13,20,1772324273,"~/demo/templates/svc.yaml"
+-'  13  20  ~/demo/templates/svc.yaml
+|4,39,13,20,1772324273,"~/demo/templates/svc.yaml"
+-'  13  20  ~/demo/templates/svc.yaml
+|4,39,13,20,1772324273,"~/demo/templates/svc.yaml"
+-'  13  20  ~/demo/templates/svc.yaml
+|4,39,13,20,1772324273,"~/demo/templates/svc.yaml"
+-'  13  20  ~/demo/templates/svc.yaml
+|4,39,13,20,1772324273,"~/demo/templates/svc.yaml"
 -'  13  20  ~/demo/templates/svc.yaml
 |4,39,13,20,1772324273,"~/demo/templates/svc.yaml"
 -'  13  20  ~/demo/templates/svc.yaml
@@ -125,154 +233,55 @@
 |4,39,1,163,1772324108,"~/demo/templates/svc.yaml"
 -'  1  163  ~/demo/templates/svc.yaml
 |4,39,1,163,1772324108,"~/demo/templates/svc.yaml"
--'  11  20  ~/demo/templates/svc.yaml
-|4,39,11,20,1772323269,"~/demo/templates/svc.yaml"
--'  11  20  ~/demo/templates/svc.yaml
-|4,39,11,20,1772323269,"~/demo/templates/svc.yaml"
--'  11  20  ~/demo/templates/svc.yaml
-|4,39,11,20,1772323269,"~/demo/templates/svc.yaml"
--'  11  20  ~/demo/templates/svc.yaml
-|4,39,11,20,1772323269,"~/demo/templates/svc.yaml"
--'  11  20  ~/demo/templates/svc.yaml
-|4,39,11,20,1772323269,"~/demo/templates/svc.yaml"
--'  11  20  ~/demo/templates/svc.yaml
-|4,39,11,20,1772323269,"~/demo/templates/svc.yaml"
--'  11  20  ~/demo/templates/svc.yaml
-|4,39,11,20,1772323269,"~/demo/templates/svc.yaml"
--'  11  20  ~/demo/templates/svc.yaml
-|4,39,11,20,1772323269,"~/demo/templates/svc.yaml"
--'  1  0  ~/demo/templates/svc.yaml
-|4,39,1,0,1772323257,"~/demo/templates/svc.yaml"
--'  1  0  ~/demo/templates/svc.yaml
-|4,39,1,0,1772323257,"~/demo/templates/svc.yaml"
--'  1  0  ~/demo/templates/svc.yaml
-|4,39,1,0,1772323257,"~/demo/templates/svc.yaml"
--'  1  0  ~/demo/templates/svc.yaml
-|4,39,1,0,1772323257,"~/demo/templates/svc.yaml"
--'  1  0  ~/demo/templates/svc.yaml
-|4,39,1,0,1772323257,"~/demo/templates/svc.yaml"
--'  1  0  ~/demo/templates/svc.yaml
-|4,39,1,0,1772323257,"~/demo/templates/svc.yaml"
--'  1  0  ~/demo/templates/svc.yaml
-|4,39,1,0,1772323257,"~/demo/templates/svc.yaml"
--'  1  0  ~/demo/templates/svc.yaml
-|4,39,1,0,1772323257,"~/demo/templates/svc.yaml"
--'  26  36  ~/demo/templates/deployment1.yaml
-|4,39,26,36,1772322931,"~/demo/templates/deployment1.yaml"
--'  26  36  ~/demo/templates/deployment1.yaml
-|4,39,26,36,1772322931,"~/demo/templates/deployment1.yaml"
--'  26  36  ~/demo/templates/deployment1.yaml
-|4,39,26,36,1772322931,"~/demo/templates/deployment1.yaml"
--'  26  36  ~/demo/templates/deployment1.yaml
-|4,39,26,36,1772322931,"~/demo/templates/deployment1.yaml"
--'  26  36  ~/demo/templates/deployment1.yaml
-|4,39,26,36,1772322931,"~/demo/templates/deployment1.yaml"
--'  26  36  ~/demo/templates/deployment1.yaml
-|4,39,26,36,1772322931,"~/demo/templates/deployment1.yaml"
--'  26  36  ~/demo/templates/deployment1.yaml
-|4,39,26,36,1772322931,"~/demo/templates/deployment1.yaml"
--'  26  36  ~/demo/templates/deployment1.yaml
-|4,39,26,36,1772322931,"~/demo/templates/deployment1.yaml"
--'  26  36  ~/demo/templates/deployment1.yaml
-|4,39,26,36,1772322931,"~/demo/templates/deployment1.yaml"
--'  26  36  ~/demo/templates/deployment1.yaml
-|4,39,26,36,1772322931,"~/demo/templates/deployment1.yaml"
--'  26  36  ~/demo/templates/deployment1.yaml
-|4,39,26,36,1772322931,"~/demo/templates/deployment1.yaml"
--'  26  36  ~/demo/templates/deployment1.yaml
-|4,39,26,36,1772322931,"~/demo/templates/deployment1.yaml"
--'  26  36  ~/demo/templates/deployment1.yaml
-|4,39,26,36,1772322931,"~/demo/templates/deployment1.yaml"
--'  26  36  ~/demo/templates/deployment1.yaml
-|4,39,26,36,1772322931,"~/demo/templates/deployment1.yaml"
--'  26  36  ~/demo/templates/deployment1.yaml
-|4,39,26,36,1772322931,"~/demo/templates/deployment1.yaml"
--'  26  36  ~/demo/templates/deployment1.yaml
-|4,39,26,36,1772322931,"~/demo/templates/deployment1.yaml"
--'  1  444  ~/demo/templates/deployment1.yaml
-|4,39,1,444,1772322902,"~/demo/templates/deployment1.yaml"
--'  1  444  ~/demo/templates/deployment1.yaml
-|4,39,1,444,1772322902,"~/demo/templates/deployment1.yaml"
--'  1  444  ~/demo/templates/deployment1.yaml
-|4,39,1,444,1772322902,"~/demo/templates/deployment1.yaml"
--'  1  444  ~/demo/templates/deployment1.yaml
-|4,39,1,444,1772322902,"~/demo/templates/deployment1.yaml"
--'  1  444  ~/demo/templates/deployment1.yaml
-|4,39,1,444,1772322902,"~/demo/templates/deployment1.yaml"
--'  1  444  ~/demo/templates/deployment1.yaml
-|4,39,1,444,1772322902,"~/demo/templates/deployment1.yaml"
--'  1  444  ~/demo/templates/deployment1.yaml
-|4,39,1,444,1772322902,"~/demo/templates/deployment1.yaml"
--'  1  444  ~/demo/templates/deployment1.yaml
-|4,39,1,444,1772322902,"~/demo/templates/deployment1.yaml"
--'  1  444  ~/demo/templates/deployment1.yaml
-|4,39,1,444,1772322902,"~/demo/templates/deployment1.yaml"
--'  1  444  ~/demo/templates/deployment1.yaml
-|4,39,1,444,1772322902,"~/demo/templates/deployment1.yaml"
--'  1  444  ~/demo/templates/deployment1.yaml
-|4,39,1,444,1772322902,"~/demo/templates/deployment1.yaml"
--'  1  444  ~/demo/templates/deployment1.yaml
-|4,39,1,444,1772322902,"~/demo/templates/deployment1.yaml"
--'  1  444  ~/demo/templates/deployment1.yaml
-|4,39,1,444,1772322902,"~/demo/templates/deployment1.yaml"
--'  1  444  ~/demo/templates/deployment1.yaml
-|4,39,1,444,1772322902,"~/demo/templates/deployment1.yaml"
--'  1  444  ~/demo/templates/deployment1.yaml
-|4,39,1,444,1772322902,"~/demo/templates/deployment1.yaml"
--'  1  444  ~/demo/templates/deployment1.yaml
-|4,39,1,444,1772322902,"~/demo/templates/deployment1.yaml"
--'  1  444  ~/demo/templates/deployment1.yaml
-|4,39,1,444,1772322902,"~/demo/templates/deployment1.yaml"
--'  1  444  ~/demo/templates/deployment1.yaml
-|4,39,1,444,1772322902,"~/demo/templates/deployment1.yaml"
--'  1  444  ~/demo/templates/deployment1.yaml
-|4,39,1,444,1772322902,"~/demo/templates/deployment1.yaml"
--'  1  444  ~/demo/templates/deployment1.yaml
-|4,39,1,444,1772322902,"~/demo/templates/deployment1.yaml"
--'  25  0  ~/demo/templates/deployment1.yaml
-|4,39,25,0,1772322565,"~/demo/templates/deployment1.yaml"
--'  25  0  ~/demo/templates/deployment1.yaml
-|4,39,25,0,1772322565,"~/demo/templates/deployment1.yaml"
--'  25  0  ~/demo/templates/deployment1.yaml
-|4,39,25,0,1772322565,"~/demo/templates/deployment1.yaml"
--'  25  0  ~/demo/templates/deployment1.yaml
-|4,39,25,0,1772322565,"~/demo/templates/deployment1.yaml"
--'  25  0  ~/demo/templates/deployment1.yaml
-|4,39,25,0,1772322565,"~/demo/templates/deployment1.yaml"
--'  25  0  ~/demo/templates/deployment1.yaml
-|4,39,25,0,1772322565,"~/demo/templates/deployment1.yaml"
--'  25  0  ~/demo/templates/deployment1.yaml
-|4,39,25,0,1772322565,"~/demo/templates/deployment1.yaml"
--'  25  0  ~/demo/templates/deployment1.yaml
-|4,39,25,0,1772322565,"~/demo/templates/deployment1.yaml"
--'  25  0  ~/demo/templates/deployment1.yaml
-|4,39,25,0,1772322565,"~/demo/templates/deployment1.yaml"
--'  25  0  ~/demo/templates/deployment1.yaml
-|4,39,25,0,1772322565,"~/demo/templates/deployment1.yaml"
--'  25  0  ~/demo/templates/deployment1.yaml
-|4,39,25,0,1772322565,"~/demo/templates/deployment1.yaml"
--'  25  0  ~/demo/templates/deployment1.yaml
-|4,39,25,0,1772322565,"~/demo/templates/deployment1.yaml"
--'  25  0  ~/demo/templates/deployment1.yaml
-|4,39,25,0,1772322565,"~/demo/templates/deployment1.yaml"
--'  25  0  ~/demo/templates/deployment1.yaml
-|4,39,25,0,1772322565,"~/demo/templates/deployment1.yaml"
--'  25  0  ~/demo/templates/deployment1.yaml
-|4,39,25,0,1772322565,"~/demo/templates/deployment1.yaml"
--'  25  0  ~/demo/templates/deployment1.yaml
-|4,39,25,0,1772322565,"~/demo/templates/deployment1.yaml"
--'  25  0  ~/demo/templates/deployment1.yaml
-|4,39,25,0,1772322565,"~/demo/templates/deployment1.yaml"
--'  25  0  ~/demo/templates/deployment1.yaml
-|4,39,25,0,1772322565,"~/demo/templates/deployment1.yaml"
+-'  1  163  ~/demo/templates/svc.yaml
+|4,39,1,163,1772324108,"~/demo/templates/svc.yaml"
+-'  1  163  ~/demo/templates/svc.yaml
+|4,39,1,163,1772324108,"~/demo/templates/svc.yaml"
+-'  1  163  ~/demo/templates/svc.yaml
+|4,39,1,163,1772324108,"~/demo/templates/svc.yaml"
+-'  1  163  ~/demo/templates/svc.yaml
+|4,39,1,163,1772324108,"~/demo/templates/svc.yaml"
+-'  1  163  ~/demo/templates/svc.yaml
+|4,39,1,163,1772324108,"~/demo/templates/svc.yaml"
+-'  1  163  ~/demo/templates/svc.yaml
+|4,39,1,163,1772324108,"~/demo/templates/svc.yaml"
+-'  1  163  ~/demo/templates/svc.yaml
+|4,39,1,163,1772324108,"~/demo/templates/svc.yaml"
+-'  1  163  ~/demo/templates/svc.yaml
+|4,39,1,163,1772324108,"~/demo/templates/svc.yaml"
+-'  1  163  ~/demo/templates/svc.yaml
+|4,39,1,163,1772324108,"~/demo/templates/svc.yaml"
+-'  1  163  ~/demo/templates/svc.yaml
+|4,39,1,163,1772324108,"~/demo/templates/svc.yaml"
+-'  1  163  ~/demo/templates/svc.yaml
+|4,39,1,163,1772324108,"~/demo/templates/svc.yaml"
+-'  1  163  ~/demo/templates/svc.yaml
+|4,39,1,163,1772324108,"~/demo/templates/svc.yaml"
+-'  1  163  ~/demo/templates/svc.yaml
+|4,39,1,163,1772324108,"~/demo/templates/svc.yaml"
+-'  1  163  ~/demo/templates/svc.yaml
+|4,39,1,163,1772324108,"~/demo/templates/svc.yaml"
+-'  1  163  ~/demo/templates/svc.yaml
+|4,39,1,163,1772324108,"~/demo/templates/svc.yaml"
+-'  1  163  ~/demo/templates/svc.yaml
+|4,39,1,163,1772324108,"~/demo/templates/svc.yaml"
 
 # History of marks within files (newest to oldest):
 
+> ~/demo/templates/deployment1.yaml
+	*	1772350334	0
+	"	24	58
+	^	24	59
+	.	24	58
+	+	1	444
+	+	26	36
+	+	24	58
+
 > ~/application.yaml
-	*	1772348731	0
-	"	5	18
-	^	5	19
-	.	5	18
+	*	1772349730	0
+	"	11	59
+	^	11	60
+	.	11	59
 	+	41	19
 	+	30	53
 	+	36	17
@@ -280,6 +289,7 @@
 	+	4	17
 	+	10	53
 	+	5	18
+	+	11	59
 
 > /tmp/kubectl-edit-1517309634.yaml
 	*	1772347780	0
@@ -287,15 +297,6 @@
 	^	40	16
 	.	40	15
 	+	40	15
-
-> ~/demo/templates/deployment1.yaml
-	*	1772325321	0
-	"	24	58
-	^	24	59
-	.	24	58
-	+	1	444
-	+	26	36
-	+	24	58
 
 > ~/demo/templates/svc.yaml
 	*	1772324270	0
