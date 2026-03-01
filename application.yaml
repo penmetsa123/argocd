@@ -1,0 +1,21 @@
+apiVersion: argoproj.io/v1alpha1
+kind: Application
+metadata:
+  name: mithun-app
+  namespace: argocd   # MUST be argocd namespace
+spec:
+  project: default
+
+  source:
+    repoURL: https://github.com/penmetsa123/argocd.git
+    targetRevision: main
+    path: demo   # folder where Chart.yaml exists
+
+  destination:
+    server: https://kubernetes.default.svc
+    namespace: default
+
+  syncPolicy:
+    automated:
+      prune: true
+      selfHeal: true
